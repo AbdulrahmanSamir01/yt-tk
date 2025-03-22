@@ -1,0 +1,13 @@
+"allowed_domains": [
+  "https://trends.google.com/trends/",
+  "https://www.coursera.org/browse/business",
+  "https://www.coursera.org/browse/social-sciences",
+  "https://www.coursera.org/browse/personal-development",
+  "https://www.coursera.org/browse",
+
+  "https://www.edx.org/learn/marketing",
+  "https://www.edx.org/learn/digital-marketing",
+  "https://www.edx.org/learn/content-marketing",
+  "https://www.edx.org/learn/marketing-strategy",
+  "https://www.edx.org/learn",
+]
